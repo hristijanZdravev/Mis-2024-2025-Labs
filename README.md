@@ -1,4 +1,4 @@
-# flutter_app
+# Clothes Shop
 
 A new Flutter project.
 
